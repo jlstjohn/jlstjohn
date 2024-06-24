@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jesse and I'm currently finishing up my Data Science M.S. at the University of Denver. I'm passionate about leveraging data and machine learning to tackle real world issues, such as climate change, and build a stronger scientific community. I'm also interested in mathematics and space exploration. I'm always excited to learn new techinques and ways to refine already known skills.
+
+- I'm looking to collaborate on projects that impact climate, social justice, or build community.
+- As I'm an early career data scientist, I'm always looking for opportunities to grow and hone my modeling, engineering, and product sense.
+- Contact me via LinkedIn.
+- Pronouns are she/her.
